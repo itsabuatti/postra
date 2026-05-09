@@ -1,0 +1,30 @@
+{
+  "name": "sandra-tier1",
+  "owner": {
+    "name": "Sandra Buatti-Ramos",
+    "url": "https://github.com/itsabuatti"
+  },
+  "metadata": {
+    "description": "Sandra's personal Tier 1 skill bundle",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sandra-tier1",
+      "source": {
+        "source": "github",
+        "repo": "itsabuatti/postra",
+        "ref": "main"
+      },
+      "description": "Sandra Buatti-Ramos's curated Tier 1 skills — the active-project skills surfaced for the /skills menu.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sandra Buatti-Ramos",
+        "url": "https://github.com/itsabuatti"
+      },
+      "homepage": "https://github.com/itsabuatti/postra",
+      "repository": "https://github.com/itsabuatti/postra",
+      "license": "Personal"
+    }
+  ]
+}
